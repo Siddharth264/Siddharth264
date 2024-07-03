@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h3 align="center">Software Engineer @ Dylit</h3>
 
-- 🔭 I’m currently working on [Dylit](dylit.info)
+- 🔭 I’m currently working on [Dylit](https://dylit.info)
 
 - 🌱 I’m currently learning **GoLang**
 
