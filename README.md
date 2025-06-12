@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h3 align="center">Software Engineer @ Datafoundry</h3>
 
-- 🔭 I’m currently working on [Literature Monitoring](https://literaturemonitor-dev.dfoundry.ai/login)
+- 🔭 I’m currently working on **Python and FastAPI**
 
 - 🌱 I’m currently learning **GoLang**
 
