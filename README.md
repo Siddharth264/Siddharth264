@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sidsingh264@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Siddharth-dev](https://bit.ly/Siddharth-dev)
+- 📄 Know about my experiences [https://bit.ly/Siddharth-dev](https://portfolio-seven-delta-63.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
