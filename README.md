@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Python and FastAPI**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **ReactJs, NextJs & Golang**
+- 💬 Ask me about **ReactJs, NextJs & Python**
 
 - 📫 How to reach me **sidsingh264@gmail.com**
 
